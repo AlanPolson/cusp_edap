@@ -6,6 +6,9 @@ cusp-edap2
 Add a short description here!
 
 
+.. image:: https://travis-ci.org/AlanPolson/cusp_edap.svg?branch=master
+  : target: https://travis-ci.org/AlanPolson/cusp_edap/
+
 Description
 ===========
 
